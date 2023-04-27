@@ -1,5 +1,4 @@
-{
-   "articles":[
+[
 
       {
          "headline":"New Study Finds That Dogs Are Better Than Cats",
@@ -17,4 +16,3 @@
          "url":"https://example.com/news/new-planet-discovered"
       }
    ]
-}
