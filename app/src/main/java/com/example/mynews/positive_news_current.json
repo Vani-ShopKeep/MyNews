@@ -1,15 +1,20 @@
-[
+{
+  "articles":[
 
       {
+         "url":"https://example.com/news/dogs-are-better-than-cats",
          "headline":"New Study Finds That Dogs Are Better Than Cats",
          "blurb":"A recent study conducted by researchers at the University of Woof found that dogs are superior to cats in every way."
       },
       {
-         "headline":"Local Man Wins Hot Dog Eating Contest",
-         "blurb":"In a stunning upset, local resident Joey Chestnut took home first prize in this year's annual hot dog eating contest."
+        "url":"https://example.com/news/local-man-wins-hot-dog-eating-contest",
+        "headline":"Local Man Wins Hot Dog Eating Contest",
+        "blurb":"In a stunning upset, local resident Joey Chestnut took home first prize in this year's annual hot dog eating contest."
       },
       {
-         "headline":"Scientists Discover New Planet Orbiting Distant Star",
-         "blurb":"A team of astronomers using the Hubble Space Telescope have discovered a new exoplanet orbiting a star located 400 light years away from Earth."
+        "url":"https://example.com/news/new-planet-discovered",
+        "headline":"Scientists Discover New Planet Orbiting Distant Star",
+        "blurb":"A team of astronomers using the Hubble Space Telescope have discovered a new exoplanet orbiting a star located 400 light years away from Earth."
       }
    ]
+}
